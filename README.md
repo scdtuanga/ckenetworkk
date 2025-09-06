@@ -1,10 +1,14 @@
-# Hello there,
+# Nurex - Minecraft Website Template
 
-Thanks for downloading this template.
-I have tried my best to provide you a better interface. You have to visit the *Config.js* file and put your Server name Ip etc there.
-You might need to Manually put the Links and images etc in HTML files so please visit each file and check that.
+### Thank you for downloading my website template!
 
-If you have any questions please contact me at http://justhaider.site or Message me on Discord My username : _justhaider
+To get **started** do the following steps...
 
+1. Install Nodejs v20 or v20+.
+2. Enter in the mc-web directory and run `npm i --force` (Press enter for any prompts).
+3. Edit the fields in the `.env` accordingly such as you're server name and server ip.
+4. When everything is done, run `npm run start` and visit localhost:3000.
+5. And you are all set!
+6. (Optional) If you want html version of the site, run `npm run build`. Note that you wont be able to edit the content of the website in the build version!
 
-Thanks for choosing this template. ❤
+For any queries or difficulties, contact me on [Discord](https://discord.com/users/941349445017141318/)
